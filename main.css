@@ -6,7 +6,6 @@ body {
 
 .header-bar {
 	background-color: #F0BD35;
-	vertical-align: center;
 }
 
 .pic, .caption-text {
@@ -24,6 +23,10 @@ body {
 
 .pic {
 	border-width: 1px 1px 0px 1px;
+}
+
+h1, .col-12 p {
+	margin: 10px 10px;
 }
 
 h2 {
