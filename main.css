@@ -1,0 +1,34 @@
+
+body {
+	font-family: Roboto;
+	box-sizing: border-box;
+}
+
+.header-bar {
+	background-color: #F0BD35;
+	vertical-align: center;
+}
+
+.pic, .caption-text {
+	border-color: lightgray;
+	border-style: solid;
+	padding: 0px 0px 0px 0px;
+}
+
+.caption-text {
+	border-width: 0px 1px 1px 1px;
+	padding-top: 10px;
+	margin-bottom: 5px;
+	padding-left: 15px;
+}
+
+.pic {
+	border-width: 1px 1px 0px 1px;
+}
+
+h2 {
+	margin-top: 0px;
+}
+
+
+
